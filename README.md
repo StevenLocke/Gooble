@@ -1,2 +1,3 @@
 Gooble
 ======
+For future use.
